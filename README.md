@@ -1,1 +1,1 @@
-# Object_detection_with_yolo
+# CATAN_yolov8

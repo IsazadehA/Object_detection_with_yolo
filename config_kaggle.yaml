@@ -1,0 +1,29 @@
+path: directory_of_input_images  # dataset root dir
+train: train/images  # train images (relative to 'path') 
+val: val/images  # val images (relative to 'path') 
+test: test/images  # 
+
+#classes names
+#replace all class names list with your classes names
+names: ['3', '4', '5', '6', '7', '8', '9', '10', '11', '12', 'dice1', 'dice2', 'dice3', 'dice4', 'dice6', '2', 'dice5']
+
+
+# Classes
+# names:
+#   0: 3
+#   1: 4
+#   2: 5
+#   3: 6
+#   4: 7
+#   5: 8
+#   6: 9
+#   7: 10
+#   8: 11
+#   9: 12
+#   10: dice1
+#   11: dice2
+#   12: dice3
+#   13: dice4
+#   14: dice6
+#   15: 2
+#   16: dice5
