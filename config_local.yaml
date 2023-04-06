@@ -1,4 +1,4 @@
-path: c:\Users\TheJuice\Documents\CATAN_yolov8_local\data  # dataset root dir
+path: c:\Users\TheJuice\Documents\GitHub\Object_detection_with_yolo\input_data_for_object_detection  # dataset root dir
 train: train/images  # train images (relative to 'path') 
 val: val/images  # val images (relative to 'path') 
 test: test/images  # 
